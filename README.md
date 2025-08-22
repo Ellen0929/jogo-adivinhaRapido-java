@@ -1,4 +1,4 @@
-# Jogo da Adivinhação
+# Jogo de Adivinhação
 
 ## Descrição
 Jogo simples em Java onde o jogador tenta adivinhar um número secreto sorteado pelo computador.  
@@ -29,20 +29,6 @@ Você pode jogar de duas formas:
    bash:
    java Main
 4. Digite seu palpite quando solicitado.
-
-### Estrutura do Código
-
-JogoAdivinhacao.java → Classe que contém a lógica do jogo (número secreto, tentativas, verificação de palpites).
-
-Main.java → Classe principal que roda o jogo e interage com o usuário.
-
-### Tecnologias
-
-Java (Console)
-
-Conceitos de POO: classe, atributos, métodos, encapsulamento.
-
-Laços de repetição e estruturas condicionais (while, if-else).
 
 
 
