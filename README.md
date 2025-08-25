@@ -6,10 +6,14 @@ O jogo utiliza conceitos de **Programação Orientada a Objetos (POO)** e **laç
 
 ## Regras do Jogo
 1. O computador escolhe um número aleatório entre **1 e 100**.
-2. O jogador tem **5 tentativas** para acertar o número.
-3. A cada palpite, o jogo informa se o número é **maior** ou **menor** que o chute.
-4. Se o jogador acertar, recebe a mensagem: **"Parabéns! Você venceu!"**
+2. O jogador escolhe o nível de dificuldade, que define o números de tentativas:
+   - Fácil -> 10 tentativas;
+   - Médio -> 5 tentativas;
+   - Díficil -> 3 tentativas;
+4. A cada palpite, o jogo informa se o número é **maior** ou **menor** que o chute.
+5. Se o jogador acertar, recebe a mensagem: **"Parabéns! Você venceu!"**
 5. Se as tentativas acabarem sem acertar, o jogo exibe: **"Game Over! O número era X"**.
+6. O jogo valida a entrada para aceitar apenas números dentro do intervalo (1-100)
 
 ## Como Jogar
 Você pode jogar de duas formas:
@@ -32,7 +36,7 @@ Você pode jogar de duas formas:
 
 
 
-(projeto pessoal- estudando para se aprimorar cada vez mais)
+(Projeto pessoal- estudando Java, POO e lógica de programação para se aprimorar cada vez mais)
 
 feito por Ellen N.Silva.
 
